@@ -52,9 +52,8 @@ The report is designed to turn sales data into clear, interactive insights that 
 
 ## 🖼️ Dashboard Preview
 
-Add screenshots of your completed report to a `Screenshots` folder, then embed them below.
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f7afc23a-061b-4fa2-84a0-251b2222f77c" />
 
-<!-- Example: ![Sales Dashboard](Screenshots/sales-dashboard.png) -->
 
 ## 📁 Suggested Folder Structure
 
