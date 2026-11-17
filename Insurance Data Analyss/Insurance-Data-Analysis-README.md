@@ -52,10 +52,8 @@ The exact analysis depends on the columns available in the dataset. Potential ar
 - How do insurance metrics vary across customer segments?
 
 ## 🖼️ Dashboard Preview
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/8a63a725-0075-40f6-849e-c8b6bdb04831" />
 
-Add screenshots of your completed report to a `Screenshots` folder, then embed them below.
-
-<!-- Example: ![Insurance Dashboard](Screenshots/insurance-dashboard.png) -->
 
 ## 📁 Suggested Folder Structure
 
@@ -81,7 +79,3 @@ _Add 3–5 findings after completing your analysis. Use actual values from your 
 - Interactive filtering and data exploration
 
 ---
-
-**Project Status:** Update this section to reflect whether the report is complete.
-
-**Author:** Add your name or GitHub profile link here.
