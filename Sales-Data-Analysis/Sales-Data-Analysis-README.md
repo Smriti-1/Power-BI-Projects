@@ -79,7 +79,3 @@ _Add 3–5 findings after completing your analysis. Include actual figures and e
 - Publishing and refresh concepts in Power BI
 
 ---
-
-**Project Status:** Update this section to reflect whether the report is complete.
-
-**Author:** Add your name or GitHub profile link here.
