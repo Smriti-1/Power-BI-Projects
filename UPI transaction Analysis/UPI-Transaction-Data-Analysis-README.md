@@ -54,10 +54,8 @@ The exact analysis depends on the fields available in the dataset. Potential are
 - Do transaction patterns differ across available segments?
 
 ## 🖼️ Dashboard Preview
+<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/c7970b03-435a-4550-8980-a1ecb213ed76" />
 
-Add screenshots of your completed report to a `Screenshots` folder, then embed them below.
-
-<!-- Example: ![UPI Dashboard](Screenshots/upi-dashboard.png) -->
 
 ## 📁 Suggested Folder Structure
 
@@ -83,7 +81,3 @@ _Add 3–5 findings after completing your analysis. Include actual figures from 
 - Communicating trends through data visualization
 
 ---
-
-**Project Status:** Update this section to reflect whether the report is complete.
-
-**Author:** Add your name or GitHub profile link here.
